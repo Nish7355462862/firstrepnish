@@ -1,2 +1,2 @@
 # firstrepnish
-Author- Nishchhal Pratap Singh
+Author- Nishchhal Pratap Singh (CSE student)
