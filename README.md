@@ -1,4 +1,4 @@
-# firstrepnish
+# myintro
 Author- Nishchhal Pratap Singh (CSE student)
 <br>
 studying in UIT - RGPV, Bhopal
